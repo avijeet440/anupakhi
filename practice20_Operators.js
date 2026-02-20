@@ -1,0 +1,35 @@
+let x = 10;
+let y = 4;
+let z = x + y;
+let g = z * y;
+console.log(g);
+console.log(y);
+console.log(z);
+let a = 5;
+let c = (100 + 5) * a;
+console.log(c);
+let text1 = "Arpa";
+let text2 = "Sudipto";
+let e = text1 + " " + text2;
+
+console.log(e);
+
+let r = 5;
+let result = r > 8;
+console.log(result);
+let h = 4;
+let u = 5;
+let b = h % u;
+console.log(b);
+let t = 5;
+t++;
+let d = t;
+let v = t ** d;
+console.log(t);
+console.log(d);
+console.log(v);
+let s = 10;
+let k = Math.pow(s, 2);
+console.log(k);
+let result1 = 10 + 5 * 2;
+console.log(result1);
