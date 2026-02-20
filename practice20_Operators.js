@@ -33,3 +33,4 @@ let k = Math.pow(s, 2);
 console.log(k);
 let result1 = 10 + 5 * 2;
 console.log(result1);
+// this is plane code
